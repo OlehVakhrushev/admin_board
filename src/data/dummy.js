@@ -12,7 +12,7 @@ import { GiLouvrePyramid } from 'react-icons/gi';
 import { GrLocation } from 'react-icons/gr';
 import avatar from './avatar.jpg';
 import avatar2 from './avatar2.jpg';
-import avatar3 from './avatar3.png';
+import avatar3 from './avatar3.jpg';
 import avatar4 from './avatar4.jpg';
 import product1 from './product1.jpg';
 import product2 from './product2.jpg';
@@ -586,7 +586,7 @@ export const chatData = [
   {
     image:
       avatar2,
-    message: 'Roman Joined the Team!',
+    message: 'Mr Crabs Joined the Team!',
     desc: 'Congratulate him',
     time: '9:08 AM',
   },
@@ -594,7 +594,7 @@ export const chatData = [
     image:
       avatar3,
     message: 'New message received',
-    desc: 'Salma sent you new message',
+    desc: 'Squidward sent you new message',
     time: '11:56 AM',
   },
   {
@@ -607,7 +607,7 @@ export const chatData = [
   {
     image:
       avatar,
-    message: 'Jolly completed tasks',
+    message: 'Sandy completed tasks',
     desc: 'Assign her new tasks',
     time: '1:12 AM',
   },
@@ -922,8 +922,8 @@ export const ordersGrid = [
 export const customersData = [
   {
     CustomerID: 1001,
-    CustomerName: 'Nirav Joshi',
-    CustomerEmail: 'nirav@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
@@ -936,8 +936,8 @@ export const customersData = [
   {
     CustomerID: 1002,
 
-    CustomerName: 'Sunil Joshi',
-    CustomerEmail: 'sunil@gmail.com',
+    CustomerName: 'Squidward Tentacles',
+    CustomerEmail: 'Squidward@gmail.com',
     ProjectName: 'Elite Admin',
     Status: 'Active',
     CustomerImage:
@@ -951,8 +951,8 @@ export const customersData = [
   {
     CustomerID: 1003,
 
-    CustomerName: 'Andrew McDownland',
-    CustomerEmail: 'andrew@gmail.com',
+    CustomerName: 'Karl Look',
+    CustomerEmail: 'Karl@gmail.com',
     ProjectName: 'Real Homes WP Theme',
     Status: 'Pending',
     CustomerImage:
@@ -965,8 +965,8 @@ export const customersData = [
   {
     CustomerID: 1004,
 
-    CustomerName: 'Christopher Jamil',
-    CustomerEmail: 'jamil@gmail.com',
+    CustomerName: 'Sandy Chicks',
+    CustomerEmail: 'Sandy@gmail.com',
     ProjectName: 'MedicalPro WP Theme',
     Status: 'Completed',
     CustomerImage:
@@ -979,8 +979,8 @@ export const customersData = [
   {
     CustomerID: 1005,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -992,8 +992,8 @@ export const customersData = [
   },
   {
     CustomerID: 1006,
-    CustomerName: 'Nirav Joshi',
-    CustomerEmail: 'nirav@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
@@ -1006,8 +1006,8 @@ export const customersData = [
   {
     CustomerID: 1007,
 
-    CustomerName: 'Sunil Joshi',
-    CustomerEmail: 'sunil@gmail.com',
+    CustomerName: 'Squidward Tentacles',
+    CustomerEmail: 'Squidward@gmail.com',
     ProjectName: 'Elite Admin',
     Status: 'Active',
     CustomerImage:
@@ -1049,8 +1049,8 @@ export const customersData = [
   {
     CustomerID: 1010,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1062,8 +1062,8 @@ export const customersData = [
   },
   {
     CustomerID: 1011,
-    CustomerName: 'Nirav Joshi',
-    CustomerEmail: 'nirav@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
@@ -1076,8 +1076,8 @@ export const customersData = [
   {
     CustomerID: 1012,
 
-    CustomerName: 'Sunil Joshi',
-    CustomerEmail: 'sunil@gmail.com',
+    CustomerName: 'Squidward Tentacles',
+    CustomerEmail: 'Squidward@gmail.com',
     ProjectName: 'Elite Admin',
     Status: 'Active',
     CustomerImage:
@@ -1119,8 +1119,8 @@ export const customersData = [
   {
     CustomerID: 1015,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1132,8 +1132,8 @@ export const customersData = [
   },
   {
     CustomerID: 1016,
-    CustomerName: 'Nirav Joshi',
-    CustomerEmail: 'nirav@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
@@ -1146,8 +1146,8 @@ export const customersData = [
   {
     CustomerID: 1017,
 
-    CustomerName: 'Sunil Joshi',
-    CustomerEmail: 'sunil@gmail.com',
+    CustomerName: 'Squidward Tentacles',
+    CustomerEmail: 'Squidward@gmail.com',
     ProjectName: 'Elite Admin',
     Status: 'Active',
     CustomerImage:
@@ -1189,8 +1189,8 @@ export const customersData = [
   {
     CustomerID: 1020,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1202,8 +1202,8 @@ export const customersData = [
   },
   {
     CustomerID: 1021,
-    CustomerName: 'Nirav Joshi',
-    CustomerEmail: 'nirav@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
@@ -1216,8 +1216,8 @@ export const customersData = [
   {
     CustomerID: 1022,
 
-    CustomerName: 'Sunil Joshi',
-    CustomerEmail: 'sunil@gmail.com',
+    CustomerName: 'Squidward Tentacles',
+    CustomerEmail: 'Squidward@gmail.com',
     ProjectName: 'Elite Admin',
     Status: 'Active',
     CustomerImage:
@@ -1259,8 +1259,8 @@ export const customersData = [
   {
     CustomerID: 1025,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1272,8 +1272,8 @@ export const customersData = [
   },
   {
     CustomerID: 1026,
-    CustomerName: 'Nirav Joshi',
-    CustomerEmail: 'nirav@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
@@ -1286,8 +1286,8 @@ export const customersData = [
   {
     CustomerID: 1027,
 
-    CustomerName: 'Sunil Joshi',
-    CustomerEmail: 'sunil@gmail.com',
+    CustomerName: 'Squidward Tentacles',
+    CustomerEmail: 'Squidward@gmail.com',
     ProjectName: 'Elite Admin',
     Status: 'Active',
     CustomerImage:
@@ -1329,8 +1329,8 @@ export const customersData = [
   {
     CustomerID: 1030,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1342,8 +1342,8 @@ export const customersData = [
   },
   {
     CustomerID: 1031,
-    CustomerName: 'Nirav Joshi',
-    CustomerEmail: 'nirav@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
@@ -1356,8 +1356,8 @@ export const customersData = [
   {
     CustomerID: 1032,
 
-    CustomerName: 'Sunil Joshi',
-    CustomerEmail: 'sunil@gmail.com',
+    CustomerName: 'Squidward Tentacles',
+    CustomerEmail: 'Squidward@gmail.com',
     ProjectName: 'Elite Admin',
     Status: 'Active',
     CustomerImage:
@@ -1399,8 +1399,8 @@ export const customersData = [
   {
     CustomerID: 1035,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
@@ -1412,8 +1412,8 @@ export const customersData = [
   },
   {
     CustomerID: 1036,
-    CustomerName: 'Nirav Joshi',
-    CustomerEmail: 'nirav@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     CustomerImage:
       avatar2,
     ProjectName: 'Hosting Press HTML',
@@ -1426,8 +1426,8 @@ export const customersData = [
   {
     CustomerID: 1037,
 
-    CustomerName: 'Sunil Joshi',
-    CustomerEmail: 'sunil@gmail.com',
+    CustomerName: 'Squidward Tentacles',
+    CustomerEmail: 'Squidward@gmail.com',
     ProjectName: 'Elite Admin',
     Status: 'Active',
     CustomerImage:
@@ -1467,8 +1467,8 @@ export const customersData = [
   },
   {
     CustomerID: 1040,
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Mr. Crabs',
+    CustomerEmail: 'Crabs@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:
